@@ -1,4 +1,4 @@
-import Card from "./Card";
+import Card from "./card";
 import {useQuery} from "@apollo/client";
 import { GET_TRANSACTIONS } from "../graphql/queries/transaction.query";
 import { GET_AUTHENTICATED_USER, GET_USER_AND_TRANSACTIONS } from "../graphql/queries/user.query";
