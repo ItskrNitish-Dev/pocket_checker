@@ -156,3 +156,12 @@ frontend/
 package.json    Backend and root-level scripts
 vercel.json     Vercel deployment configuration
 ```
+
+## Images
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32d2cc83-2c33-4764-9126-d64722bf49bc" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4af37f38-7f36-488a-96ea-38bf55174b19" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5869e33e-283e-4769-9624-d6b808ae9e2f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b61ca6fc-5740-420a-926f-87c61c2a3e69" />
+
+
+
